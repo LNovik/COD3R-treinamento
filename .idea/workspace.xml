@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57b0e6ad-6cd4-407a-813a-a77c84da9406" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pG0U9rwA4ds8fyBPZCFpN6rquU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luann\Documents\JAVA\AULAS\COD3R\src\dio" />
+      <recent name="C:\Users\luann\Documents\JAVA\AULAS\COD3R\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="excecao.personalizadaA" />
+      <recent name="excecao" />
+      <recent name="lambdas.foreach" />
+      <recent name="lambdas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Causa">
+    <configuration name="Causa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.Causa" />
+      <module name="COD3R" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinallyCod3r" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.FinallyCod3r" />
+      <module name="COD3R" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaB.Teste" />
+      <module name="COD3R" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecao.personalizadaB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaA.Teste" />
+      <module name="COD3R" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecao.personalizadaA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteValidacoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaA.TesteValidacoes" />
+      <module name="COD3R" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecao.personalizadaA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Causa" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.FinallyCod3r" />
+        <item itemvalue="Application.Teste (1)" />
+        <item itemvalue="Application.TesteValidacoes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b0e6ad-6cd4-407a-813a-a77c84da9406" name="Default Changelist" comment="" />
+      <created>1614794133265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614794133265</updated>
+      <workItem from="1616583360470" duration="2897000" />
+      <workItem from="1616586349670" duration="49000" />
+      <workItem from="1616587650740" duration="67000" />
+      <workItem from="1616588589056" duration="49008000" />
+      <workItem from="1616773077828" duration="21313000" />
+      <workItem from="1616847683683" duration="3243000" />
+      <workItem from="1616850992177" duration="155931000" />
+      <workItem from="1617628230639" duration="13992000" />
+      <workItem from="1617705614216" duration="88314000" />
+      <workItem from="1617967179374" duration="69635000" />
+      <workItem from="1618422869915" duration="2514000" />
+      <workItem from="1618506598889" duration="9445000" />
+      <workItem from="1618520757223" duration="22130000" />
+      <workItem from="1618956177345" duration="8284000" />
+      <workItem from="1619036894022" duration="22216000" />
+      <workItem from="1620029124165" duration="23658000" />
+      <workItem from="1620286402586" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/oo/heranca/desafio/Civic.java</url>
+          <line>8</line>
+          <properties class="oo.heranca.desafio.Civic" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdas/intefacesfuncionais/IntPredicate.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
